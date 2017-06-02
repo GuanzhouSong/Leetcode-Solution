@@ -20,7 +20,6 @@ public class Solution34 {
         	if(k<nums.length-1) k++;
         }
         int[] a = {j,k};
-        int p;
         return a;
     }
 	
