@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class Solution31 {
 	public int[] nextPermutation(int[] nums) {
