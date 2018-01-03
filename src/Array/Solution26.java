@@ -1,4 +1,4 @@
-import javax.sound.midi.Instrument;
+package Array;
 
 public class Solution26 {
 	public int removeDuplicates(int[] nums) {

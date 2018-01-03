@@ -1,8 +1,11 @@
+package Array;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class Solution18 {
+
 	public List<List<Integer>> fourSum(int[] nums, int target) {
 		ArrayList<List<Integer>> res = new ArrayList<List<Integer>>();
 		int len = nums.length;
@@ -108,7 +111,7 @@ public class Solution18 {
 		}
 		return;
 	}
-	
+
 	public static void main(String[] args){
 		Solution18 s = new Solution18();
 		int[] a = {1, 0, -1, 0, -2, 2};

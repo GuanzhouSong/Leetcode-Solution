@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package Array;
+
 import java.util.Arrays;
 
 public class Solution16 {

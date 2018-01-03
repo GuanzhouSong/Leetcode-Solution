@@ -1,4 +1,4 @@
-import javax.naming.InitialContext;
+package Array;
 
 public class Solution31 {
 	public int[] nextPermutation(int[] nums) {
